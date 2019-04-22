@@ -401,11 +401,23 @@ body {
     text-align: left;
     margin-left: 85px;
     display: block;
-    font-size: 16px;
+    font-.sub-main{
+  width: 30%;
+  margin:22px;
+  float: left;
+}ize: 16px;
 }
 
-.play_button_mobile {
-    width: 100px;
+.play_but.sub-main{
+  width: 30%;
+  margin:22px;
+  float: left;
+}on_mobile {
+    width.sub-main{
+  width: 30%;
+  margin:22px;
+  float: left;
+} 100px;
     height: 100px;
     background-image: url('../img/play.png');
     background-size: cover;
@@ -479,10 +491,26 @@ body {
     position: relative;
 }
 
-hr {
-    border-color: #F05F40;
-    border-width: 3px;
-    max-width: 50px;
+hr {.sub-main{
+  width: 30%;
+  margin:22px;
+  float: left;
+}
+    .sub-main{
+  width: 30%;
+  margin:22px;
+  float: left;
+}-color: #F05F40;
+    .sub-main{
+  width: 30%;
+  margin:22px;
+  float: left;
+}-width: 3px;
+    .sub-main{
+  width: 30%;
+  margin:22px;
+  float: left;
+}dth: 50px;
 }
 
 hr.light {
@@ -582,9 +610,21 @@ header .header-content .header-content-inner p {
     }
     header .header-content {
         position: absolute;
-        top: 60%;
-        -webkit-transform: translateY(-50%);
-        -ms-transform: translateY(-50%);
+        top.sub-main{
+  width: 30%;
+  margin:22px;
+  float: left;
+}60%;
+        -we.sub-main{
+  width: 30%;
+  margin:22px;
+  float: left;
+}it-transform: translateY(-50%);
+        -ms.sub-main{
+  width: 30%;
+  margin:22px;
+  float: left;
+}ransform: translateY(-50%);
         transform: translateY(-50%);
         padding: 0 50px;
     }
@@ -940,3 +980,4 @@ body {
         font-size: 16px;
     }
 }
+
